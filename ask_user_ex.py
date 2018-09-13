@@ -1,5 +1,5 @@
 def ask_user():
-    answer="sdwer"
+    answer=None
     try:
        while answer!='Хорошо':
           answer=input('Как дела? ')
